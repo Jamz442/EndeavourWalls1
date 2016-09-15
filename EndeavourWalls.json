@@ -3,28 +3,13 @@
 	[ 
 		{
 			"author" : "Prodigy Arts",
-			"url": "https://github.com/Jamz442/EndeavourWalls1/blob/master/Ocean.png?raw=true",
-			"name": "Forest"
-		},
-		{
-			"author": "Prodigy Arts",
-			"url": "https://github.com/Jamz442/EndeavourWalls1/blob/master/Pine%20Tree.png?raw=true”,
-			"name": “Pine Tree“
-		},
-		{
-			"author": "Prodigy Arts",
-			"url": "https://github.com/Jamz442/EndeavourWalls1/blob/master/Pine.png?raw=true”,
-			"name" : “Pine”
-		},
-		{
-			"author": "Prodigy Arts",
-			"url": "https://github.com/Jamz442/EndeavourWalls1/blob/master/Surface.png?raw=true”,
+			"url": "https://raw.githubusercontent.com/Jamz442/EndeavourWalls1/master/Surface.png",
 			"name": “Surface”
 		},
 		{
 			"author": "Prodigy Arts",
-			"url": "https://github.com/Jamz442/EndeavourWalls1/blob/master/Swirls.png?raw=true”,
-			"name": “Swirls”
+			"url": "https://raw.githubusercontent.com/Jamz442/EndeavourWalls1/master/Swirls.png”,
+			"name": “Swirls“
 		}
 	]
 }
